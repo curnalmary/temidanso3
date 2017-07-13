@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>temi danso</title>
+	<style type="text/css">
+		
+#long{
+	width: 100%;
+	height: 370px;
+	background-image: url("light.png");
+	background-position: center;
+	background-size: 100%,50%;
+z-index: -1px;
+padding-top: 300px;
+min-width: 700px;
+height: 370px;
+}
+
+
+
+
+
+#head{
+	
+margin-top: -3px;
+	width: 100%;
+	height: 30px;
+	border: 1px solid black;
+background-color: black;
+padding: 2.5px;
+min-width: 700px;
+height: 30px;
+}
+
+
+
+
+p{
+	margin-left: 10%;
+	color: white;
+	font-size: 1.2em;
+	margin-top: -40px;
+font-family: 'Oswald', sans-serif;
+width: 600px;
+}
+h1{
+margin-left: 15%;
+margin-top: -600px;
+font-size: 7em;
+font-family: 'Oswald', sans-serif;
+color: white;
+}
+h2{
+margin-left: 18%;
+margin-top: -70px;
+font-size: 5em;
+font-family: 'Playfair Display', serif;
+color: white;
+
+}
+ol{
+	color: white;
+	font-size: 0.9em;
+	float: right;
+	margin-right: 60px;
+	margin-top: 3px;
+
+	
+
+}
+li{
+display: inline-block;
+text-decoration: none;
+font-family: 'Playfair Display', serif;
+margin-left: 10px;
+	}
+	</style>
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Jim+Nightshade|Noto+Serif|Oswald|Playfair+Display" rel="stylesheet">
+</head>
+<body>
+<div id="head">
+	
+<ol>
+	<li>blog</li>
+<li>portfolio</li>
+<li>about</li>
+</ol>
+
+
+</div>
+
+
+
+<div id="long">
+	
+
+
+</div>
+
+
+
+
+
+<h1>TEMI DANSO : </h1>
+<h2>ARTIST </h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt</br> ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis</br>  </p>
+</body>
+<!--make button in the middle of page with black div top and bottom all grey!-->
+
+</html>
